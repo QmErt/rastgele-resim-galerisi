@@ -1,1 +1,1 @@
-# rastgele-resim-galerisi
+Benim rastgele resim galerisi projem
