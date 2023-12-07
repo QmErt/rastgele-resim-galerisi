@@ -1,0 +1,40 @@
+div#baslik {
+  border: 3px solid rgb(197, 179, 245);
+  color: cornflowerblue;
+  background-color: rgba(197, 179, 245, 0.362);
+  width: center;
+  height: center;
+  text-align: center;
+}
+div#minibaslik{
+  border: 3px solid rgb(255, 0, 0);
+  color: rgb(246, 65, 65);
+  background-color: whitesmoke;
+  text-align: center;
+}
+div#fotolar {
+  width: 982px;
+  height: 1615px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+div.foto {
+  width: 304px;
+  height: 303px;
+  background-color: whitesmoke;
+  color: blue;
+  border: 2px solid steelblue;
+  text-align: center;
+  line-height: 200px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+body {
+  padding: 50px;
+  background: #fcecd7;
+}
